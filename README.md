@@ -73,6 +73,7 @@ Kumpulan tools online yang dikurasi untuk membantu developer, kreator, marketer,
 - [Goblin Tools](https://goblin.tools) — Membantu memecah tugas besar menjadi langkah-langkah kecil yang mudah dikelola.
 - [AnswerThePublic](https://answerthepublic.com) — Menemukan pertanyaan dan topik yang sering dicari orang terkait kata kunci tertentu.
 - [Elicit](https://elicit.com) — Mencari literatur ilmiah dan menyarikan temuan penting dari ribuan jurnal.
+- [Agent QA](https://github.com/vostride/agent-qa) — Agen QA berbasis AI untuk menjalankan pengujian regresi web dan mobile dari bahasa alami, dengan memori pengujian persisten serta antarmuka CLI dan MCP.
 
 ## Design & Image
 
